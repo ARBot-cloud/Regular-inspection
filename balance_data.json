@@ -16,19 +16,19 @@
     "used": 84.59
   },
   "anyrouter_linux_chuang": {
-    "quota": 750.0,
-    "used": 0.0
-  },
-  "anyrouter_linux_bwj": {
     "quota": 775.0,
     "used": 0.0
   },
+  "anyrouter_linux_bwj": {
+    "quota": 800.0,
+    "used": 0.0
+  },
   "anyrouter_linux_devbai": {
-    "quota": 725.0,
+    "quota": 750.0,
     "used": 0.0
   },
   "anyrouter_linux_Yeahnet": {
-    "quota": 725.0,
+    "quota": 750.0,
     "used": 0.0
   },
   "agentrouter_github_dctx479": {
