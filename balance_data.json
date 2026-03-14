@@ -58,5 +58,45 @@
     "quota": 1547.37,
     "used": 1952.63,
     "timestamp": 1773469972.0462966
+  },
+  "zx2021_email": {
+    "quota": 125.0,
+    "used": 0.0,
+    "timestamp": 1773490861.5613666
+  },
+  "Gp_email": {
+    "quota": 125.0,
+    "used": 0.0,
+    "timestamp": 1773490883.472111
+  },
+  "wjy2021_email": {
+    "quota": 125.0,
+    "used": 0.0,
+    "timestamp": 1773490904.9459434
+  },
+  "djx_email": {
+    "quota": 125.0,
+    "used": 0.0,
+    "timestamp": 1773490927.6278064
+  },
+  "qxm_email": {
+    "quota": 125.0,
+    "used": 0.0,
+    "timestamp": 1773490950.7350707
+  },
+  "zjy2021_email": {
+    "quota": 125.0,
+    "used": 0.0,
+    "timestamp": 1773490974.02017
+  },
+  "wx_email": {
+    "quota": 125.0,
+    "used": 0.0,
+    "timestamp": 1773490995.5024776
+  },
+  "zmz_email": {
+    "quota": 125.0,
+    "used": 0.0,
+    "timestamp": 1773491018.4022775
   }
 }
