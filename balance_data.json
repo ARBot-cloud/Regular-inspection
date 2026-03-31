@@ -1,38 +1,38 @@
 {
   "dctx_email": {
-    "quota": 1162.9,
+    "quota": 1187.9,
     "used": 3587.4,
-    "timestamp": 1774897131.3035476
+    "timestamp": 1774923096.4146147
   },
   "ljq_email": {
-    "quota": 700.15,
+    "quota": 725.15,
     "used": 3949.93,
-    "timestamp": 1774897151.5828109
+    "timestamp": 1774923117.481294
   },
   "zc_email": {
-    "quota": 2237.35,
+    "quota": 2262.35,
     "used": 2412.65,
-    "timestamp": 1774897173.9784715
+    "timestamp": 1774923139.593929
   },
   "zj_email": {
-    "quota": 1593.1,
+    "quota": 1618.1,
     "used": 2006.9,
-    "timestamp": 1774897265.2612383
+    "timestamp": 1774923229.652383
   },
   "fks_email": {
-    "quota": 3411.22,
+    "quota": 3436.22,
     "used": 188.78,
-    "timestamp": 1774897288.7550576
+    "timestamp": 1774923251.2424414
   },
   "dxh_email": {
-    "quota": 3600.0,
+    "quota": 3625.0,
     "used": 0.0,
-    "timestamp": 1774897311.524107
+    "timestamp": 1774923273.8239176
   },
   "zhb_email": {
-    "quota": 3600.0,
+    "quota": 3625.0,
     "used": 0.0,
-    "timestamp": 1774897333.9269826
+    "timestamp": 1774923294.9013941
   },
   "linuxdo_84404_cookies": {
     "quota": 768.53,
@@ -60,43 +60,43 @@
     "timestamp": 1774855664.9173274
   },
   "zx2021_email": {
-    "quota": 525.0,
+    "quota": 550.0,
     "used": 0.0,
-    "timestamp": 1774897357.3281898
+    "timestamp": 1774923315.9750454
   },
   "Gp_email": {
-    "quota": 525.0,
+    "quota": 550.0,
     "used": 0.0,
-    "timestamp": 1774897380.1768093
+    "timestamp": 1774923339.0302763
   },
   "wjy2021_email": {
-    "quota": 525.0,
+    "quota": 550.0,
     "used": 0.0,
-    "timestamp": 1774897402.6175678
+    "timestamp": 1774923362.3744552
   },
   "djx_email": {
-    "quota": 525.0,
+    "quota": 550.0,
     "used": 0.0,
-    "timestamp": 1774897423.7705138
+    "timestamp": 1774923384.3425753
   },
   "qxm_email": {
-    "quota": 525.0,
+    "quota": 550.0,
     "used": 0.0,
-    "timestamp": 1774897446.595861
+    "timestamp": 1774923406.9685204
   },
   "zjy2021_email": {
-    "quota": 525.0,
+    "quota": 550.0,
     "used": 0.0,
-    "timestamp": 1774897469.191756
+    "timestamp": 1774923430.4467034
   },
   "wx_email": {
-    "quota": 525.0,
+    "quota": 550.0,
     "used": 0.0,
-    "timestamp": 1774897493.352341
+    "timestamp": 1774923453.9409637
   },
   "zmz_email": {
-    "quota": 525.0,
+    "quota": 550.0,
     "used": 0.0,
-    "timestamp": 1774897516.9358165
+    "timestamp": 1774923477.0745847
   }
 }
