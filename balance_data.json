@@ -1,18 +1,18 @@
 {
   "dctx_email": {
-    "quota": 4745.94,
+    "quota": 4770.94,
     "used": 3629.35,
-    "timestamp": 1787423196.2361505
+    "timestamp": 1787447444.0482278
   },
   "ljq_email": {
-    "quota": 4195.88,
+    "quota": 4220.88,
     "used": 4079.2,
-    "timestamp": 1787423217.8360054
+    "timestamp": 1787447466.2782555
   },
   "zc_email": {
-    "quota": 3875.12,
+    "quota": 3900.12,
     "used": 4399.88,
-    "timestamp": 1787423239.8957725
+    "timestamp": 1787447487.039016
   },
   "zj_email": {
     "quota": 5048.63,
