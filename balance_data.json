@@ -1,18 +1,18 @@
 {
   "dctx_email": {
-    "quota": 5045.89,
-    "used": 3629.4,
-    "timestamp": 1788467429.677299
+    "quota": 5064.62,
+    "used": 3635.67,
+    "timestamp": 1788490543.3893602
   },
   "ljq_email": {
-    "quota": 4495.88,
+    "quota": 4520.88,
     "used": 4079.2,
-    "timestamp": 1788467452.3454802
+    "timestamp": 1788490565.4091973
   },
   "zc_email": {
-    "quota": 4175.12,
+    "quota": 4200.12,
     "used": 4399.88,
-    "timestamp": 1788467476.2430477
+    "timestamp": 1788490589.648811
   },
   "zj_email": {
     "quota": 5048.63,
@@ -40,9 +40,9 @@
     "timestamp": 1784016088.0635884
   },
   "linux_chuang_cookies": {
-    "quota": 2480.81,
+    "quota": 2505.81,
     "used": 3793.61,
-    "timestamp": 1788467502.4930103
+    "timestamp": 1788490614.5249827
   },
   "linux_bwj_cookies": {
     "quota": 2047.61,
@@ -50,14 +50,14 @@
     "timestamp": 1784016109.0655837
   },
   "linux_devbai_cookies": {
-    "quota": 2446.14,
+    "quota": 2471.14,
     "used": 3803.86,
-    "timestamp": 1788467526.460966
+    "timestamp": 1788490638.7071986
   },
   "linux_Yeahnet_cookies": {
-    "quota": 4039.87,
+    "quota": 4064.87,
     "used": 2210.13,
-    "timestamp": 1788467536.2066584
+    "timestamp": 1788490649.847146
   },
   "zx2021_email": {
     "quota": 3050.0,
